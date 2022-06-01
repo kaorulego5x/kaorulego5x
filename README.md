@@ -2,6 +2,7 @@
 
 I'm Kaoru Nishihara a.k.a. QuicKNick!
 
+### 🧑🏻‍ Career:
 '01 Nov &nbsp;&nbsp; Born to be child 👶  
 <br />
 '14 Apr &nbsp;&nbsp; Entered Nada junior highschool 🎓  
