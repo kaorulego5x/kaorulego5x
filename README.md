@@ -1,4 +1,4 @@
-### Hello there 👋
+### Welcome 👋
 
 I'm Kaoru Nishihara a.k.a. QuicKNick!
 
