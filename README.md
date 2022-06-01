@@ -2,7 +2,8 @@
 
 I'm Kaoru Nishihara a.k.a. QuicKNick!
 
-'01 Nov &nbsp;&nbsp; Born to be child 👶  
+'01 Nov &nbsp;&nbsp; Born to be child 👶
+'14 Apr &nbsp;&nbsp; Entered Nada junior highschool 🎓
 '18 Aug &nbsp;&nbsp; Created a multi-plaftform app builder, "Codeport" 🚀  
 '20 Apr &nbsp;&nbsp; Entered University of Tokyo 🎓  
 '21 Aug ~ Creating english learning app, "Getit" 🤟  
