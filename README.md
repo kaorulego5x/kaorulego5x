@@ -2,7 +2,7 @@
 
 I'm Kaoru Nishihara a.k.a. QuicKNick!
 
-### 🧑🏻‍💻 My skillset:
+### 🧑🏻‍💻 Skillset:
 <a href="https://www.typescriptlang.org/">
     <img height="50" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>
 </a>
