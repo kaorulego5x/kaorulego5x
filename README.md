@@ -11,7 +11,7 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <br />
 '20 Apr &nbsp;&nbsp; Entered University of Tokyo 🎓  
 <br />
-'21 Aug ~ Creating english learning app, "Getit" 💪🏻  
+'21 Aug ~ Creating an english learning app, "Getit" 💪🏻  
 <br />
 '21 Nov ~ Internship at Sapeet Inc.   
 <br />
