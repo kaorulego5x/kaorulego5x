@@ -3,11 +3,17 @@
 I'm Kaoru Nishihara a.k.a. QuicKNick!
 
 '01 Nov &nbsp;&nbsp; Born to be child 👶  
+<br />
 '14 Apr &nbsp;&nbsp; Entered Nada junior highschool 🎓  
+<br />
 '18 Aug &nbsp;&nbsp; Created a multi-plaftform app builder, "Codeport" 🚀  
+<br />
 '20 Apr &nbsp;&nbsp; Entered University of Tokyo 🎓  
+<br />
 '21 Aug ~ Creating english learning app, "Getit" 🤟  
+<br />
 '21 Nov ~ Internship at Sapeet Inc.   
+<br />
 '22 May ~ Dev lead at CYPHER 🎤  
 
 ### 🧑🏻‍💻 Skillset:
