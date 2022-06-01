@@ -1,9 +1,9 @@
-### Welcome 👋
+### Welcome 🖖🏻
 
 I'm Kaoru Nishihara a.k.a. QuicKNick!
 
 ### 🧑🏻‍ Career:
-'01 Nov &nbsp;&nbsp; Born to be child 👶  
+'01 Nov &nbsp;&nbsp; Born to be child 👶🏻  
 <br />
 '14 Apr &nbsp;&nbsp; Entered Nada junior highschool 🎓  
 <br />
@@ -11,7 +11,7 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <br />
 '20 Apr &nbsp;&nbsp; Entered University of Tokyo 🎓  
 <br />
-'21 Aug ~ Creating english learning app, "Getit" 🤟  
+'21 Aug ~ Creating english learning app, "Getit" 💪🏻  
 <br />
 '21 Nov ~ Internship at Sapeet Inc.   
 <br />
