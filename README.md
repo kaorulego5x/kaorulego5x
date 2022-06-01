@@ -9,7 +9,7 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <a href="https://developer.apple.com/xcode/swiftui/">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-1024.png"/>
 </a>
-<a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
 </a>
 <a href="https://nodejs.org/en/">
