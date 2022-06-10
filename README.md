@@ -42,8 +42,11 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <a href="https://cloud.google.com/">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Google-cloud-platform-v2.svg/2310px-Google-cloud-platform-v2.svg.png"/>
 </a>
-<a href="https://www.figma.com/files/recent?fuid=1033476976169315408">
+<a href="https://www.mongodb.com/">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png"/>
+</a>
+<a href="https://www.figma.com/files/recent?fuid=1033476976169315408">
+    <img height="50" src="https://cdn.theorg.com/53a98419-f97d-4b28-a38a-99566bcac4db_thumb.png"/>
 </a>
 <a href="https://www.autodesk.com/products/maya/overview">
     <img height="50" src="https://img.utdstc.com/icon/db0/f35/db0f35ec9d0acb2956ef4905c135340c4228417f775eebbf69bf048e18809295:200"/>
