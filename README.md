@@ -45,6 +45,9 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <a href="https://www.mongodb.com/">
     <img height="50" src="https://cdn.theorg.com/53a98419-f97d-4b28-a38a-99566bcac4db_thumb.png"/>
 </a>
+<a href="https://graphql.org/">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"/>
+</a>
 <a href="https://www.figma.com/files/recent?fuid=1033476976169315408">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png"/>
 </a>
