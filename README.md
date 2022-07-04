@@ -21,11 +21,11 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <a href="https://www.typescriptlang.org/">
     <img height="50" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>
 </a>
-<a href="https://developer.apple.com/xcode/swiftui/">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-1024.png"/>
+<a href="https://reactjs.org/">
+    <img height="50" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-1024.png"/>
 </a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
+<a href="https://angular.io/">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-1024.png"/>
 </a>
 <a href="https://nodejs.org/en/">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png"/>
@@ -33,14 +33,11 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <a href="https://nestjs.com/">
     <img height="50" src="https://habrastorage.org/getpro/habr/post_images/d11/98b/ac8/d1198bac8e4ced0d89d5e5983061f418.png"/>
 </a>
-<a href="https://webpack.js.org/">
-    <img height="50" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"/>
+<a href="https://developer.apple.com/xcode/swiftui/">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-1024.png"/>
 </a>
-<a href="https://reactjs.org/">
-    <img height="50" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-1024.png"/>
-</a>
-<a href="https://angular.io/">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-1024.png"/>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
 </a>
 <a href="https://cloud.google.com/">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Google-cloud-platform-v2.svg/2310px-Google-cloud-platform-v2.svg.png"/>
