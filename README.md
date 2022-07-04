@@ -30,6 +30,9 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <a href="https://nodejs.org/en/">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png"/>
 </a>
+<a href="https://nestjs.com/">
+    <img height="50" src="https://habrastorage.org/getpro/habr/post_images/d11/98b/ac8/d1198bac8e4ced0d89d5e5983061f418.png"/>
+</a>
 <a href="https://webpack.js.org/">
     <img height="50" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"/>
 </a>
@@ -47,9 +50,6 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 </a>
 <a href="https://graphql.org/">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"/>
-</a>
-<a href="https://nestjs.com/">
-    <img height="50" src="https://habrastorage.org/getpro/habr/post_images/d11/98b/ac8/d1198bac8e4ced0d89d5e5983061f418.png"/>
 </a>
 <a href="https://www.figma.com/files/recent?fuid=1033476976169315408">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png"/>
