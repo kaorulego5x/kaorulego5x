@@ -13,7 +13,7 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <br />
 '21 Aug ~ Creating an english learning app, "Getit" 💪🏻  
 <br />
-'21 Nov ~ Internship at Sapeet Inc.   
+'21 Nov ~ '22 Jul Internship at Sapeet Inc.   
 <br />
 '22 May ~ Dev lead at CYPHER 🎤  
 
