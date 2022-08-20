@@ -16,6 +16,8 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 '21 Nov ~ '22 Jul Internship at Sapeet Inc.   
 <br />
 '22 May ~ Dev lead at CYPHER 🎤  
+<br />
+'22 Aug ~ '23 May Exchange at Nanyang Technological University 🇸🇬
 
 ### 🧑🏻‍💻 Skillset:
 <a href="https://www.typescriptlang.org/">
