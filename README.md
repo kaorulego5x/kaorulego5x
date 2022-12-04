@@ -38,6 +38,9 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <a href="https://nestjs.com/">
     <img height="50" src="https://habrastorage.org/getpro/habr/post_images/d11/98b/ac8/d1198bac8e4ced0d89d5e5983061f418.png"/>
 </a>
+<a href="https://flutter.dev/">
+    <img height="50" src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63018720eab24847b1f88ee2_cc137f7e.png"/>
+</a>
 <a href="https://developer.apple.com/xcode/swiftui/">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-1024.png"/>
 </a>
