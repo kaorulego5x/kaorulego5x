@@ -29,9 +29,6 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <a href="https://nextjs.org/">
     <img height="50" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs"/>
 </a>
-<a href="https://angular.io/">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-1024.png"/>
-</a>
 <a href="https://nodejs.org/en/">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png"/>
 </a>
