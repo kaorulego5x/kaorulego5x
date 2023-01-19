@@ -18,6 +18,8 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 '22 May ~ Dev lead at CYPHER 🎤  
 <br />
 '22 Aug ~ '23 May Exchange at Nanyang Technological University 🇸🇬
+<br />
+'22 Dec ~ Launching Locket
 
 ### 🧑🏻‍💻 Skillset:
 <a href="https://www.typescriptlang.org/">
