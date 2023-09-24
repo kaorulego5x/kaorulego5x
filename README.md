@@ -19,11 +19,11 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <br />
 '22 Aug ~ '23 May Exchange at Nanyang Technological University 🇸🇬  
 <br />
-'22 Dec Launched Real-time location sharing app "Locket" 🚀
+'22 Dec Launched Real-time location sharing app "Locket" 🚀  
 <br />
-'23 Jun Launched Real-time location sharing app "CUBE SHOP" 🧊
+'23 Jun Launched Real-time location sharing app "CUBE SHOP" 🧊  
 <br />
-'23 Sep Data Science Internship at Dentsu Inc.
+'23 Sep Data Science Internship at Dentsu Inc.  
 
 ### 🧑🏻‍💻 Skillset:
 <a href="https://www.typescriptlang.org/">
