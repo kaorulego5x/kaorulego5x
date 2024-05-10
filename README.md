@@ -11,7 +11,7 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <br />
 '20 Apr &nbsp;&nbsp; Entered University of Tokyo 🎓  
 <br />
-'21 Aug ~ Creating an english learning app, "Getit" 💪🏻  
+'21 Aug ~ Launched an english learning app, "Getit" 💪🏻  
 <br />
 '21 Nov ~ '22 Jul Internship at Sapeet Inc.   
 <br />
@@ -21,7 +21,7 @@ I'm Kaoru Nishihara a.k.a. QuicKNick!
 <br />
 '22 Dec Launched Real-time location sharing app "Locket" 🚀  
 <br />
-'23 Jun Launched Real-time location sharing app "CUBE SHOP" 🧊  
+'23 Jun Launched life log app "CUBE SHOP" 🧊  
 <br />
 '23 Sep Data Science Internship at Dentsu Inc.  
 
